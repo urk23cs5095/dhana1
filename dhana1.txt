@@ -1,1 +1,62 @@
-dhana1
+AIM:
+To Install Git And Creating Repositories.
+
+DESCRIPTION:
+GIT: Git is a version control system that allows developers to track changes in their code.
+GITHUB: GitHub is a web-based hosting service for git repositories.
+REPOSITORY: Repository is the most basic element of GitHub. It’s a place where you can
+store your code,your files,and revision history.Repositories can have multiple collaborators and
+be either private or public.
+STEP BY STEP PROCEDURE:
+
+Double-click the executable you just downloaded, then click "Next" to move through the
+
+installation prompts.
+The first is the text editor Git will use. The default selection is Vim. Vim is ubiquitous and a
+hallmark of command-line interfaces everywhere but learning to use its idiosyncratic
+commands can be daunting. You should probably pick something else instead, like Visual
+Studio Code, Sublime, NotePad++, or any other plain text editor you like.
+
+The second is the way Git integrates itself into your PC's PATH. Make sure that the "Git
+From The Command Line And Also From 3rd-Party Software" is selected.
+
+Click through the remaining options, and wait for everything to finish downloading. The time
+requires to download everything will vary depending on what you chose to install. The default
+
+selection results in a download that is about 270 megabytes.
+
+MANAGING PRIVATE AND PUBLIC REPOSITORY
+MAKING A REPOSITORY PRIVATE:
+* GitHub will detach public forks of the public repository and put them into a new
+network. Public forks are not made private.
+* If you're using GitHub Free for personal accounts or organizations, some features won't
+be available in the repository after you change the visibility to private. Any published
+GitHub Pages site will be automatically unpublished. If you added a custom domain to
+the GitHub Pages site, you should remove or update your DNS records before making
+the repository private, to avoid the risk of a domain takeover.
+* GitHub will no longer include the repository in the GitHub Archive Program.
+* GitHub Advanced Security features, such as code scanning, will stop working.
+
+MAKING A REPOSITORY PUBLIC:
+* GitHub will detach private forks and turn them into a standalone private repository.
+* If you're converting your private repository to a public repository as part of a move
+toward creating an open source project.
+* Once your repository is public, you can also view your repository's community profile
+to see whether your project meets best practices for supporting contributors.
+* The repository will automatically gain access to GitHub Advanced Security features.
+Changing a repository’s Visibility
+1. On GitHub.com, navigate to the main page of the repository.
+2. Under your repository name, click Settings. If you cannot see the "Settings" tab, select
+the dropdown menu, then click Settings.
+
+3. In the "Danger Zone" section, to the right of to "Change repository visibility",
+click Change visibility.
+4. Select a visibility.
+5. To verify that you're changing the correct repository's visibility, type the name of the
+repository you want to change the visibility of.
+6. Click I understand, change repository visibility.
+
+OUTPUT SCREENSHOTS:
+
+RESULT
+Installation Of Git And Creating Repositories Is Done Successfully
